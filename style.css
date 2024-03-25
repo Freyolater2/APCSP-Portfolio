@@ -118,3 +118,10 @@ body {}
 #myDIV{
   
 }
+
+/* Help from Hinkle */
+#Particles {
+  /* Make it so you can't click on the particles 
+  (i.e. let clicks go through) */
+  pointer-events: none;
+}
