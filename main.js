@@ -1,7 +1,7 @@
 // A minimal CSS framework: you can research
 // and choose others, or use none at all.
 import '@picocss/pico'
-
+import anime from 'animejs';
 // Our stylesheet.
 import './style.css'
 
